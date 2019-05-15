@@ -4,7 +4,7 @@ const hbs = require('hbs')  //needed to work with partials
 const geocode = require('./utils/geocode')
 const forecast = require('./utils/forecast')
 
-const location = process.argv[2]
+//const location = process.argv[2]
 
 
 const app = express()
